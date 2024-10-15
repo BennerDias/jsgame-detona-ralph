@@ -1,6 +1,15 @@
 * {
+<<<<<<< HEAD
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "press start 2p", cursive;
 }
+=======
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: "Bebas Neue", sans-serif; */
+  font-family: "Press Start 2P", cursive;
+}
+>>>>>>> 8d11faae5a7727e6d3a7df3eaf5a2184bca63900
